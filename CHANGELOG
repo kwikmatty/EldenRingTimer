@@ -1,7 +1,13 @@
 next
 - Add total average time
-- Add main menu with instructions on how to use application
+- Implement main menu animation
+- Implement sound
 
 v0.0.1 - 2023-03-09
 - Implemented timing system
 - Implemented keyboard usage (keys A-R, CTRL, ESC)
+
+v0.0.2 - 2023-03-09
+
+- Implemented main menu with keyboard controls
+- Implemented timing menu with back arrow function to return to main menu
