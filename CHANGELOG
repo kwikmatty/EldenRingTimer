@@ -1,3 +1,7 @@
 next
 - Add total average time
 - Add main menu with instructions on how to use application
+
+v0.0.1 - 2023-03-09
+- Implemented timing system
+- Implemented keyboard usage (keys A-R, CTRL, ESC)
